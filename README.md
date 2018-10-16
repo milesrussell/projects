@@ -9,3 +9,6 @@ This repository contains some of my personal projects. Please do not share witho
 ### Languages
 - SQL
 - Python
+### Methods
+- Bootstrap
+- Logistic Regression
