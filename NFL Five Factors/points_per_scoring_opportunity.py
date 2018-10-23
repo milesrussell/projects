@@ -10,12 +10,14 @@ data['reverse_dseq'] = data.sort_values(['dseq'], ascending = [False]).groupby([
 q = """
 SELECT game_id,
        team,
-       AVG(points_scored) AS points_per_trip_inside_forty
+       AVG(points_scored) AS points_per_trip_inside_forty,
+       season
 FROM (
         SELECT DISTINCT
                d.game_id,
                d.team,
                d.drive_id,
+               d.season
                CASE WHEN d.yardline >= 60 THEN 1
                     ELSE 0
                     END AS scoring_zone,
@@ -34,7 +36,8 @@ FROM (
         WHERE scoring_zone = 1)
 
 GROUP BY game_id,
-         team
+         team,
+         season
 """
 
 query = pysqldf(q)

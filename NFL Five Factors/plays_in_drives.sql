@@ -2,8 +2,10 @@
 This query pulls information needed to build an expected points lookup table.
 Unfortunately, because of the design of the database, we will have to do some
 additional cleaning in Python before it is ready for analysis. That cleaning can
-be found in the fill_nulls.py file.
+be found in the fill_nulls.py file. We only pull data on plays from 2010 through
+2015.
 */
+
 SELECT p.pid AS play_id,
        p.gid AS game_id,
        p.off AS team,
@@ -12,10 +14,11 @@ SELECT p.pid AS play_id,
        p.ytg AS distance,
        p.yfog AS yardline,
        p.pts AS points_scored,
-       d.uid AS drive_id
+       d.uid AS drive_id,
+       g.seas AS season
 FROM play p
 LEFT JOIN drive d ON d.fpid = p.pid
+JOIN game g ON g.gid = d.gid
 WHERE p.type NOT IN ('NOPL') --excluding non plays
   AND p.dwn != 0 --excluding kickoffs, extra point attempts, two-point conversion attempts
-
-LIMIT 50000 --limited to 50,000 rows so that the query would finish in a reasonable time
+  AND g.seas BETWEEN 2010 AND 2015;
