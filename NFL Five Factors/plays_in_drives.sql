@@ -18,7 +18,8 @@ SELECT p.pid AS play_id,
        g.seas AS season
 FROM play p
 LEFT JOIN drive d ON d.fpid = p.pid
-JOIN game g ON g.gid = d.gid
+JOIN game g ON g.gid = p.gid
 WHERE p.type NOT IN ('NOPL') --excluding non plays
   AND p.dwn != 0 --excluding kickoffs, extra point attempts, two-point conversion attempts
-  AND g.seas BETWEEN 2010 AND 2015;
+  AND g.seas BETWEEN 2013 AND 2015
+  AND p.dseq != 0; --getting rid of punts
