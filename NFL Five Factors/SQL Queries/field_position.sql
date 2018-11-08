@@ -1,6 +1,6 @@
 /*
 This query pulls the average starting field position for each team in each game
-from 2010 through 2015.
+from 2013 through 2015.
 */
 
 SELECT d.gid AS game_id,
@@ -9,7 +9,7 @@ SELECT d.gid AS game_id,
        g.seas AS season
 FROM drive d
 JOIN game g ON g.gid = d.gid
-WHERE g.seas BETWEEN 2010 AND 2015
+WHERE g.seas BETWEEN 2013 AND 2015
 GROUP BY d.gid,
          d.tname,
          g.seas;
