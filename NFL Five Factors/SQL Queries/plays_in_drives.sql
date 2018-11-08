@@ -2,7 +2,7 @@
 This query pulls information needed to build an expected points lookup table.
 Unfortunately, because of the design of the database, we will have to do some
 additional cleaning in Python before it is ready for analysis. That cleaning can
-be found in the fill_nulls.py file. We only pull data on plays from 2010 through
+be found in the fill_nulls.py file. We only pull data on plays from 2013 through
 2015.
 */
 
