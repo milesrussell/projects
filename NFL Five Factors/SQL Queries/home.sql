@@ -5,5 +5,5 @@ SELECT gid AS game_id,
        h AS home_team,
        CASE WHEN ptsh > ptsv THEN 1 ELSE 0 END AS win
 FROM game
-WHERE seas BETWEEN 2013 AND 2015
- AND ptsh - ptsv != 0;
+WHERE seas BETWEEN 2010 AND 2015
+ AND ptsh != ptsv;
