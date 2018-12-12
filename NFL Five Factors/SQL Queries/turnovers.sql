@@ -13,7 +13,7 @@ FROM
            g.seas AS season
     FROM offense o
     JOIN game g ON g.gid = o.gid
-    WHERE g.seas BETWEEN 2013 AND 2015
+    WHERE g.seas BETWEEN 2010 AND 2015
     GROUP BY o.gid,
              o.team,
              g.seas) team
@@ -25,7 +25,7 @@ LEFT JOIN
            g.seas AS season
     FROM offense o
     JOIN game g ON g.gid = o.gid
-    WHERE g.seas BETWEEN 2013 AND 2015
+    WHERE g.seas BETWEEN 2010 AND 2015
     GROUP BY o.gid,
              o.team,
              g.seas) opp ON team.game_id = opp.game_id
