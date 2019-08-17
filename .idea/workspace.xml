@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03fcd00d-ef92-457e-b32f-205fd6a6a6a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graduate Thesis/Analysis/Final Thesis Regressions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Graduate Thesis/Analysis/Final Thesis Regressions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graduate Thesis/Analysis/Revised Final Thesis Regressions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Graduate Thesis/Analysis/Revised Final Thesis Regressions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graduate Thesis/Analysis/nonp5summ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Graduate Thesis/Analysis/Summary Stats/nonp5summ.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graduate Thesis/Analysis/p5summ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Graduate Thesis/Analysis/Summary Stats/p5summ.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graduate Thesis/Analysis/summ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Graduate Thesis/Analysis/Summary Stats/summ.csv" afterDir="false" />
-    </list>
+    <list default="true" id="03fcd00d-ef92-457e-b32f-205fd6a6a6a0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,12 +132,12 @@
       <workItem from="1556630576827" duration="36000" />
       <workItem from="1565921445260" duration="744000" />
       <workItem from="1566052042886" duration="1591000" />
-      <workItem from="1566055580073" duration="662000" />
+      <workItem from="1566055580073" duration="1008000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3614000" />
+    <option name="totallyTimeSpent" value="3960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
@@ -269,17 +262,17 @@
     <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Commits Data/AggregatedRecruits06-14.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Analysis/Final Thesis Regressions.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Commits Data/Recruit Aggregation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Analysis/Final Thesis Regressions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="32" />
         </state>
       </provider>
     </entry>
