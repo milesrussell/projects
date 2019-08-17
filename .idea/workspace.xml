@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03fcd00d-ef92-457e-b32f-205fd6a6a6a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Graduate Thesis/Data/Stadium Data/Formatting Capacity.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Graduate Thesis/Data/Stadium Data/Formatting Capacity.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graduate Thesis/Data/Attendance Data/finalattendance.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Graduate Thesis/Data/Attendance Data/final_attendance.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,14 @@
               <item name="projects" type="462c0819:PsiDirectoryNode" />
               <item name="Graduate Thesis" type="462c0819:PsiDirectoryNode" />
               <item name="Data" type="462c0819:PsiDirectoryNode" />
-              <item name="Stadium Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Commits Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Graduate Thesis" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="State Data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,12 +133,12 @@
       <workItem from="1556198280217" duration="409000" />
       <workItem from="1556630576827" duration="36000" />
       <workItem from="1565921445260" duration="744000" />
-      <workItem from="1566052042886" duration="482000" />
+      <workItem from="1566052042886" duration="752000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1843000" />
+    <option name="totallyTimeSpent" value="2113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -186,12 +193,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Commits Data/commits.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Commits Data/AggregatedRecruits06-14.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Commits Data/RivalsScrape.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-170">
@@ -227,13 +228,6 @@
     <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/FinalCSV.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Attendance Data/finalattendance.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Revenue Data (Rodney Fort)/finalrevenue.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -263,6 +257,22 @@
           <selected id="3" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/State Data/State Education/educ2010.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Attendance Data/final_attendance.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Commits Data/commits.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Commits Data/AggregatedRecruits06-14.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
