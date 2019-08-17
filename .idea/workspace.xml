@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03fcd00d-ef92-457e-b32f-205fd6a6a6a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Graduate Thesis/Data/Attendance Data/finalattendance.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Graduate Thesis/Data/Attendance Data/final_attendance.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graduate Thesis/Analysis/Final Thesis Regressions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Graduate Thesis/Analysis/Final Thesis Regressions.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +14,26 @@
     <SUITE FILE_PATH="coverage/projects$projects.coverage" NAME="projects Coverage Results" MODIFIED="1566052121938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Commits Data/Recruit Aggregation.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Graduate Thesis/Analysis/Final Thesis Regressions.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,20 +74,6 @@
               <item name="projects" type="462c0819:PsiDirectoryNode" />
               <item name="Graduate Thesis" type="462c0819:PsiDirectoryNode" />
               <item name="Data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Graduate Thesis" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-              <item name="Commits Data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Graduate Thesis" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-              <item name="State Data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,15 +138,16 @@
       <workItem from="1556198280217" duration="409000" />
       <workItem from="1556630576827" duration="36000" />
       <workItem from="1565921445260" duration="744000" />
-      <workItem from="1566052042886" duration="752000" />
+      <workItem from="1566052042886" duration="1591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2113000" />
+    <option name="totallyTimeSpent" value="2952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23382173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -199,13 +205,6 @@
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Commits Data/Recruit Aggregation.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
         </state>
       </provider>
     </entry>
@@ -273,6 +272,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Commits Data/AggregatedRecruits06-14.csv">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Commits Data/Recruit Aggregation.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Analysis/Final Thesis Regressions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="32" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
