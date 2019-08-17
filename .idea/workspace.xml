@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03fcd00d-ef92-457e-b32f-205fd6a6a6a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graduate Thesis/Data/Revenue Data (Rodney Fort)/revenues.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graduate Thesis/Data/thesisDB.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graduate Thesis/Data/thesisdatabase.db" beforeDir="false" afterPath="$PROJECT_DIR$/Graduate Thesis/Data/Commits Data/recruit_database.db" afterDir="false" />
-    </list>
+    <list default="true" id="03fcd00d-ef92-457e-b32f-205fd6a6a6a0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/projects$projects.coverage" NAME="projects Coverage Results" MODIFIED="1566052121938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
@@ -29,9 +27,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1920" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -62,7 +59,15 @@
               <item name="projects" type="462c0819:PsiDirectoryNode" />
               <item name="Graduate Thesis" type="462c0819:PsiDirectoryNode" />
               <item name="Data" type="462c0819:PsiDirectoryNode" />
-              <item name="Revenue Data (Rodney Fort)" type="462c0819:PsiDirectoryNode" />
+              <item name="State Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Graduate Thesis" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="State Data" type="462c0819:PsiDirectoryNode" />
+              <item name="State Education" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -93,6 +98,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="projects" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -110,7 +135,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1189000" />
+    <option name="totallyTimeSpent" value="1361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
@@ -226,8 +251,6 @@
     <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Revenue Data (Rodney Fort)/finalrevenue.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Revenue Data (Rodney Fort)/revenues.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Revenue Data (Rodney Fort)/revenues.csv" />
   </component>
 </project>
