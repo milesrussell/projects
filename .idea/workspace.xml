@@ -44,30 +44,6 @@
               <item name="projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="projects" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Graduate Thesis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Graduate Thesis" type="462c0819:PsiDirectoryNode" />
-              <item name="Analysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Graduate Thesis" type="462c0819:PsiDirectoryNode" />
-              <item name="Analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="Summary Stats" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Graduate Thesis" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -83,6 +59,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Graduate Thesis/Analysis/Summary Stats" />
       <recent name="$PROJECT_DIR$/Graduate Thesis/Data/Commits Data" />
     </key>
   </component>
@@ -137,7 +114,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3960000" />
+    <option name="totallyTimeSpent" value="4207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
@@ -218,9 +195,7 @@
     <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/FinalCSV.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Revenue Data (Rodney Fort)/finalrevenue.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Revenue Data (Rodney Fort)/finalrevenue.csv" />
     <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/Revenue Data (Rodney Fort)/revenues.csv" />
     <entry file="file://$PROJECT_DIR$/Graduate Thesis/Data/State Data/State Population/statepops.csv">
       <provider selected="true" editor-type-id="text-editor" />
@@ -269,12 +244,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Analysis/Final Thesis Regressions.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Graduate Thesis/Analysis/Final Thesis Regressions.ipynb" />
   </component>
 </project>
